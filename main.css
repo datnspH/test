@@ -1,0 +1,9 @@
+.mx-auto{
+max-width: 980px;
+}
+.bg-secondary{
+background-color: orange;
+}
+.text-center{
+    text-align: center;
+}
